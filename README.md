@@ -5,7 +5,7 @@ IBM Data Science Professional Certificate (Coursera)
 
 ### Week 1: Collecting the Data
 1. jupyter-labs-spacex-data-collection-api.ipynb  
-Objective: Collecting the SpaceX data using API
+Objective: Collecting SpaceX data using API
 
 2. jupyter-labs-webscraping.ipynb  
 Objective: Web scraping Falcon 9 and Falcon Heavy Launches Records from Wikipedia
