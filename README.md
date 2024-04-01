@@ -11,6 +11,6 @@ Objective: Collecting SpaceX data using API
 Objective: Web scraping Falcon 9 and Falcon Heavy Launches Records from Wikipedia
 
 ### Week 1: Data Wrangling
-3. jupyter-labs-spacex-data-wrangling.ipynb
+3. jupyter-labs-spacex-data-wrangling.ipynb  
 Objective: Data wrangling on SpaceX data
 
