@@ -17,5 +17,8 @@ IBM Data Science Professional Certificate (Coursera)
 ### Week 2: Exploratory Analysis using Pandas and Matplotlib
 5. jupyter-labs-eda-dataviz.ipynb
 
-### Week 3: 
+### Week 3: Interactive Visual Analytics and Dashboard
+6. spacex_dash_app.py
+
+
 
