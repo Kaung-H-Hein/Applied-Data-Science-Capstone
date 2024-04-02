@@ -28,3 +28,6 @@ IBM Data Science Professional Certificate (Coursera)
 
 ### Week 5: Final Presentation
 9. SpaceX Falcon 9 First Stage Landing Prediction.pdf
+
+### SpaceX Data for Analysis
+10. Spacex.csv
