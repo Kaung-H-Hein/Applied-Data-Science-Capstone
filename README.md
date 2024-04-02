@@ -25,3 +25,6 @@ IBM Data Science Professional Certificate (Coursera)
 
 ### Week 4: Predictive Analysis (Classification)
 8. jupyter-labs-spacex-machine-learning-prediction.ipynb
+
+### Week 5: Final Presentation
+9. SpaceX Falcon 9 First Stage Landing Prediction.pdf
