@@ -22,3 +22,6 @@ IBM Data Science Professional Certificate (Coursera)
 
 ### Week 3: Interactive Visual Analytics and Plotly Dash
 7. spacex_dash_app.py
+
+### Week 4: Predictive Analysis (Classification)
+8. jupyter-labs-spacex-machine-learning-prediction.ipynb
