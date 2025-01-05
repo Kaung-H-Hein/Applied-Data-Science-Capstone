@@ -1,5 +1,5 @@
 # Applied-Data-Science-Capstone
-IBM Data Science Professional Certificate (Coursera)
+This repository contains the final project for the IBM Data Science Professional Certificate, hosted on Coursera. The capstone focuses on analysing SpaceX launch data to predict Falcon 9 first-stage landing outcomes. It includes data collection, wrangling, exploratory analysis, interactive visualisation, and machine learning classification. Key tools used include Python (Pandas, Matplotlib, Plotly Dash, Folium), SQL, and Jupyter Notebooks. The project culminates in a predictive analysis and an interactive dashboard, showcasing real-world applications of data science.
 
 ## Table of contents
 
